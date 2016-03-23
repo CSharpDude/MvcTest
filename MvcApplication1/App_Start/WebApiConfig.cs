@@ -9,6 +9,7 @@ namespace MvcApplication1
     {
         /// <summary>
         /// This is a comment
+        /// Branch2
         /// </summary>
         /// <param name="config"></param>
         public static void Register(HttpConfiguration config)
