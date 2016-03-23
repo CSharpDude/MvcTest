@@ -7,6 +7,10 @@ namespace MvcApplication1
 {
     public static class WebApiConfig
     {
+        /// <summary>
+        /// This is a comment
+        /// </summary>
+        /// <param name="config"></param>
         public static void Register(HttpConfiguration config)
         {
             config.Routes.MapHttpRoute(
